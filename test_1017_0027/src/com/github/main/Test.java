@@ -12,6 +12,7 @@ public class Test {
         t3.run3();
         Test4 t4=new Test4();
         t4.Print();
+	t4.Print();
 	}
 
 }
