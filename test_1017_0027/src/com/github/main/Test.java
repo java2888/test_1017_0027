@@ -13,6 +13,8 @@ public class Test {
         Test4 t4=new Test4();
         t4.Print();
 	t4.Print();
+	Test4 t5=new Test4();
+	t5.Print();
 	}
 
 }
